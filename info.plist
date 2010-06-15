@@ -33,6 +33,7 @@
 			<string>9082DA1F-B854-48D9-B48C-5B7896422D12</string>
 			<string>------------------------------------</string>
 			<string>E0D9B2D7-163F-493B-ACC6-29AF9C5F00BF</string>
+			<string>A448BD17-DCDC-4A9C-9578-48A4CF81653B</string>
 		</array>
 		<key>submenus</key>
 		<dict>
@@ -76,9 +77,28 @@
 					<string>0A8DF563-5218-4164-9409-48B6000C08EA</string>
 					<string>9166AEA1-E834-4C95-A638-5A3FE6963488</string>
 					<string>CFF53A3D-4ADC-44F4-B60D-1DB5FAFD7317</string>
+					<string>CE4C885B-A3BF-4A23-8787-799886F8EF2E</string>
 				</array>
 				<key>name</key>
 				<string>Other</string>
+			</dict>
+			<key>A448BD17-DCDC-4A9C-9578-48A4CF81653B</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>1241DAAF-AC7E-46BE-98D5-B4BE65BBA995</string>
+					<string>C1E51C7F-2023-45B0-BE93-FDDC19C41247</string>
+					<string>856ACE09-F630-44BB-8C51-FDDE88BC38D3</string>
+					<string>6324BEE4-DE0A-4402-8CDD-D2F665CD6B87</string>
+					<string>EE21D2D6-CFEB-4BA4-B7B0-AAC2DA7D2BC3</string>
+					<string>37234394-7D6E-48E6-A951-6E2B07FC4A9B</string>
+					<string>712E879B-4A08-4B5E-A702-9D1BF2C55970</string>
+					<string>6D0BA656-8547-427F-9766-B50D4EC589B7</string>
+					<string>DEE379C1-590D-4A93-AE76-814BA980C1F4</string>
+					<string>CCACB930-8CDE-47B6-ABB9-5BF61BC98C3E</string>
+				</array>
+				<key>name</key>
+				<string>Using ids</string>
 			</dict>
 			<key>A8DB3A82-AC24-4226-9E18-F293F4C0FAF7</key>
 			<dict>
@@ -148,6 +168,17 @@
 		<string>425C93B8-5B1A-44E2-88AA-1E910AF6D5CD</string>
 		<string>1EFB0855-D4EB-49C0-8C44-4F35DD4DA5D2</string>
 		<string>F4E856BE-6FCE-4933-8E6D-413B8835ABC5</string>
+		<string>CE4C885B-A3BF-4A23-8787-799886F8EF2E</string>
+		<string>1241DAAF-AC7E-46BE-98D5-B4BE65BBA995</string>
+		<string>C1E51C7F-2023-45B0-BE93-FDDC19C41247</string>
+		<string>856ACE09-F630-44BB-8C51-FDDE88BC38D3</string>
+		<string>6324BEE4-DE0A-4402-8CDD-D2F665CD6B87</string>
+		<string>EE21D2D6-CFEB-4BA4-B7B0-AAC2DA7D2BC3</string>
+		<string>37234394-7D6E-48E6-A951-6E2B07FC4A9B</string>
+		<string>712E879B-4A08-4B5E-A702-9D1BF2C55970</string>
+		<string>6D0BA656-8547-427F-9766-B50D4EC589B7</string>
+		<string>DEE379C1-590D-4A93-AE76-814BA980C1F4</string>
+		<string>CCACB930-8CDE-47B6-ABB9-5BF61BC98C3E</string>
 	</array>
 	<key>uuid</key>
 	<string>E6858C0B-B2C9-4A39-A2D6-6D8360A923D0</string>
